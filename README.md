@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SoundScape project
+- 🔭 I’m currently working on [SoundScape](https://github.com/maryaroslav/SoundScape) project
 - 🌱 I’m currently learning HTML, CSS, JS, MySql and NoSql
 - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mar_yaroslav/)
